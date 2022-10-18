@@ -20,4 +20,4 @@
 - ``Javascript``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui](https://voluble-monstera-f88d8f.netlify.app).
+Você pode acessar o projeto clicando [aqui](https://voluble-monstera-f88d8f.netlify.app).
