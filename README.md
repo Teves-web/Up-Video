@@ -7,7 +7,7 @@
 
 # :hammer: Funcionalidades do projeto
 
-- `Funcionalidade 1`: Este projeto consome a API do Youtube, sendo assim, encontrar todo e qualquer vídeo encontrado em sua plataforma;
+- `Funcionalidade 1`: Este projeto consome a API do Youtube, sendo assim, possível encontrar todo e qualquer vídeo disponível em sua plataforma;
 - `Funcionalidade 2`: Possibilidade de carregar um vídeo da sua escolha;
 - `Funcionalidade 2a`: Exibe vídeos para convidados;
 - `Funcionalidade 3`: De início, foi idealizado para ser um sistema de exibição de videos em salas virtuais.
