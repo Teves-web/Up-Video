@@ -12,3 +12,9 @@
 - `Funcionalidade 2a`: Exibe vídeos para convidados;
 - `Funcionalidade 3`: De início, foi idealizado para ser um sistema de exibição de videos em salas virtuais.
 - - `PS`: Esta aplicação foi desenvolvida em menos de 7 horas seguidas.
+
+## ✔️ Técnicas e tecnologias utilizadas
+
+- ``Html5``
+- ``Css3``
+- ``Javascript``
